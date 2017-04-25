@@ -11,7 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest-cli": "^19.0.2",
-    "jest-trx-results-processor": "0.0.5",
+    "jest-junit": "^1.5.1",
     "superagent": "^3.5.2"
   }
 }
