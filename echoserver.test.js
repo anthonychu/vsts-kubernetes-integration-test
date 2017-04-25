@@ -1,6 +1,6 @@
 const request = require('superagent');
 
-const url = process.env.ENDPOINT_URL || 'http://echoserver';
+const url = process.env.ENDPOINT_URL || 'http://echoheaders';
 
 describe('GET ' + url, () => {
     it('should return 200', done => {
